@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Swift / macOS build artifacts
+.build/
+DerivedData/
+.swiftpm/
+*.xcuserstate
+mac/bin/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
